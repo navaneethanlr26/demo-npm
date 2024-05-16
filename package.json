@@ -1,0 +1,22 @@
+{
+  "name": "hello-npm-navaneethan",
+  "version": "1.0.1",
+  "description": "hello npm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/navaneethanlr26/demo-npm.git)"
+  },
+  "keywords": [
+    "npm",
+    "tut"
+  ],
+  "author": "navaneethan",
+  "license": "ISC"
+}
